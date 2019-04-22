@@ -3,8 +3,7 @@ The code is largely based on [a tutorial video](https://www.youtube.com/watch?v=
 
 ## Installation
 ```
-npm init
-npm install -D babel-loader @babel/core @babel/preset-env webpack
+npm install
 ```
 ## How-to
 Start webpack-dev-server
