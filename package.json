@@ -8,8 +8,8 @@
     "build": "webpack --config webpack.config.js",
     "start": "webpack-dev-server --output-public-path=/build/"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "0xboz",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.4.3",
     "@babel/preset-env": "^7.4.3",
